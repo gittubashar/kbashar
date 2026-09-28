@@ -31,7 +31,6 @@
             </nav>
 
             <div class="tech-header__actions">
-                <span class="tech-online"><i></i> Systems online</span>
                 <a href="{{ route('contact') }}" class="tech-btn tech-btn--small">Contact</a>
                 <button type="button" data-mobile-toggle class="tech-menu" aria-label="Toggle menu"><x-icon name="menu" /></button>
             </div>
